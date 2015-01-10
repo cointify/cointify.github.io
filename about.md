@@ -8,4 +8,6 @@ My name is Jatinder Singh and I'm a Software Developer based in Toronto, Canada.
 
 <strong>Backend Development</strong> - My bread and butter is <a href="https://spring.io/">Spring Framework</a> and its associated stack: Spring Security, Thymeleaf, PostgreSQL/MySQL, HTML5, JavaScript &amp; CSS. I am comfortable using Spring Framework for all sorts of projects; database driven web applications, REST driven frontend applications powered by Spring, and so on.
 
+<strong>Frontend Development</strong> - I'm very comfortable with the latest frameworks and libraries for the Frontend Development. I primarily use Twitter Bootstrap and like putting together compliant and clean responsive HTML5, and CSS templates.
+
 And when I'm not working I'm tinkering with my D7100 DSLR camera as a hobbyist photographer. I'm a soccer enthusiastic and play on regular basis. 
