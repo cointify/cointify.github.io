@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
-My name is Jatinder Singh and I'm a Software Developer based in Toronto, Canada. I work for Interac Canada's National Payment Network that links major Canadian financial institutions including banks and credit unions. I primarily use Java, but picking up a new framework or language isn't a problem. I have been tinkering with Python programming language lately and soon it's going to land in my arsenal.
+My name is Jatinder Singh and I'm a Software Developer based in Toronto, Canada. I work for Interac, Canada's National Payment Network that links major Canadian financial institutions including banks and credit unions. I primarily use Java, but picking up a new framework or language isn't a problem. I have been tinkering with Python programming language lately and soon it's going to land in my arsenal.
 
-I'm a hobbyist photographer and soccer enthusiastic. 
+<strong>Backend Development</strong> - My bread and butter is <a href="https://spring.io/">Spring Framework</a> and its associated stack: Spring Security, Thymeleaf, PostgreSQL/MySQL, HTML5, JavaScript &amp; CSS. I am comfortable using Spring Framework for all sorts of projects; database driven web applications, REST driven frontend applications powered by Spring, and so on.
+
+And when I'm not working I'm tinkering with my D7100 DSLR camera as a hobbyist photographer. I'm a soccer enthusiastic and play on regular basis. 
