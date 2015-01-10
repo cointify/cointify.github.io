@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      2015 when I digitize myself
+title:      Digitizing myself
 date:       2015-01-09 12:23:00
 summary:    The return to blogging after a pin drop silience.
 categories: general
