@@ -7,7 +7,6 @@ categories: vacation
 ---
 
 ### Some of the shots I took
-![Lincoln Park Zoo]({{ site.url }}/images/JAT_6181.jpg)
 ![Chicago Skyline]({{ site.url }}/images/JAT_6197.jpg)
 ![Lincoln Park Flowers]({{ site.url }}/images/JAT_6123.jpg)
-![Mount Pleasant Go Station]({{ site.url }}/images/JAT_5851.jpg)
+![Lincoln Park Zoo]({{ site.url }}/images/JAT_6181.jpg)
