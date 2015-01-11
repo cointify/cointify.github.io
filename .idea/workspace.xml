@@ -80,8 +80,8 @@
       <file leaf-file-name="2015-01-10-one-app.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2015-01-10-one-app.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.049342107" vertical-offset="0" max-vertical-offset="608">
-              <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+            <state vertical-scroll-proportion="0.098684214" vertical-offset="0" max-vertical-offset="608">
+              <caret line="4" column="89" selection-start-line="4" selection-start-column="89" selection-end-line="4" selection-end-column="89" />
               <folding />
             </state>
           </provider>
@@ -502,12 +502,12 @@
       <option name="number" value="Default" />
       <updated>1420872025729</updated>
       <workItem from="1420872022889" duration="121000" />
-      <workItem from="1420872765249" duration="4517000" />
+      <workItem from="1420872765249" duration="4581000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4638000" />
+    <option name="totallyTimeSpent" value="4702000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="728" extended-state="6" />
@@ -620,8 +620,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-01-10-one-app.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.049342107" vertical-offset="0" max-vertical-offset="608">
-          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.098684214" vertical-offset="0" max-vertical-offset="608">
+          <caret line="4" column="89" selection-start-line="4" selection-start-column="89" selection-end-line="4" selection-end-column="89" />
           <folding />
         </state>
       </provider>
