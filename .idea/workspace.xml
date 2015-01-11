@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be71ab96-c635-456a-b417-57116195c6cc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-01-09-return-of-blogging.md" afterPath="$PROJECT_DIR$/_posts/2015-01-09-return-of-blogging.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-01-10-one-app-every-week.md" afterPath="$PROJECT_DIR$/_posts/2015-01-10-one-app.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="cointify.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,21 +69,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-01-09-return-of-blogging.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2015-01-09-return-of-blogging.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2015-01-09-return-of-blogging.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24671052" vertical-offset="0" max-vertical-offset="608">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
               <caret line="10" column="95" selection-start-line="10" selection-start-column="95" selection-end-line="10" selection-end-column="95" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-01-10-one-app-every-week.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2015-01-10-one-app-every-week.md">
+      <file leaf-file-name="2015-01-10-one-app.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-01-10-one-app.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
-              <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
+            <state vertical-scroll-proportion="0.19736843" vertical-offset="0" max-vertical-offset="608">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -110,6 +112,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_posts/2015-01-10-trip-to-chicago.md" />
         <option value="$PROJECT_DIR$/_posts/2015-01-09-return-of-blogging.md" />
+        <option value="$PROJECT_DIR$/_posts/2015-01-10-one-app.md" />
       </list>
     </option>
   </component>
@@ -501,12 +504,12 @@
       <option name="number" value="Default" />
       <updated>1420872025729</updated>
       <workItem from="1420872022889" duration="121000" />
-      <workItem from="1420872765249" duration="3542000" />
+      <workItem from="1420872765249" duration="4471000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3663000" />
+    <option name="totallyTimeSpent" value="4592000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="728" extended-state="6" />
@@ -569,14 +572,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-01-10-one-app-every-week.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
-          <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/post_footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="150">
@@ -619,8 +614,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-01-09-return-of-blogging.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24671052" vertical-offset="0" max-vertical-offset="608">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
           <caret line="10" column="95" selection-start-line="10" selection-start-column="95" selection-end-line="10" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-01-10-one-app.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19736843" vertical-offset="0" max-vertical-offset="608">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
