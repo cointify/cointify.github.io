@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be71ab96-c635-456a-b417-57116195c6cc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/JAT_6123.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/JAT_6181.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/JAT_6197.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/JAT_5851.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-01-10-trip-to-chicago.md" afterPath="$PROJECT_DIR$/_posts/2015-01-10-trip-to-chicago.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="cointify.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,8 +31,8 @@
       <file leaf-file-name="2015-01-10-trip-to-chicago.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2015-01-10-trip-to-chicago.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2713816" vertical-offset="0" max-vertical-offset="608">
-              <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+            <state vertical-scroll-proportion="0.29605263" vertical-offset="0" max-vertical-offset="608">
+              <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -460,12 +457,12 @@
       <option name="number" value="Default" />
       <updated>1420872025729</updated>
       <workItem from="1420872022889" duration="121000" />
-      <workItem from="1420872765249" duration="2802000" />
+      <workItem from="1420872765249" duration="2974000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2923000" />
+    <option name="totallyTimeSpent" value="3095000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="728" extended-state="6" />
@@ -562,8 +559,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-01-10-trip-to-chicago.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2713816" vertical-offset="0" max-vertical-offset="608">
-          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        <state vertical-scroll-proportion="0.29605263" vertical-offset="0" max-vertical-offset="608">
+          <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
           <folding />
         </state>
       </provider>
