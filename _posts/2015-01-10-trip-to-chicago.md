@@ -6,7 +6,7 @@ summary:    The road trip to Chicago, Illinois covered almost 2000 KMs in 3 days
 categories: vacation
 ---
 
-### Some of the shots I took
+### Some of the shots I took while I was there
 ![Chicago Skyline]({{ site.url }}/images/JAT_6197.jpg)
 ![Lincoln Park Flowers]({{ site.url }}/images/JAT_6123.jpg)
 ![Lincoln Park Zoo]({{ site.url }}/images/JAT_6181.jpg)
