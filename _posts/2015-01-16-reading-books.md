@@ -7,8 +7,8 @@ categories: books
 ---
 
 The new year is here and of course I had to make some resolutions. One of them is reading useful books. I've
-already finished one by Peter Thiel (an investor and a co-founder of [Pay Pal](www.paypal.com)) called Zero To One; and about
-to finish my second book called Rework by the co-founders of [Basecamp](www.basecamp.com) Software. I already know the next book I want
+already finished one by Peter Thiel (an investor and a co-founder of [Pay Pal](https://paypal.com)) called Zero To One; and about
+to finish my second book called Rework by the co-founders of [Basecamp](https://basecamp.com) Software. I already know the next book I want
 to read.
 
 And my resolution is not to read a book every month or to read n number of books per year. The point is to enjoy

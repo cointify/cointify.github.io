@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be71ab96-c635-456a-b417-57116195c6cc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-01-10-one-app.md" afterPath="$PROJECT_DIR$/_posts/2015-01-10-one-app.md" />
+    <list default="true" id="be71ab96-c635-456a-b417-57116195c6cc" name="Default" comment="Post edits">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-01-16-reading-books.md" afterPath="$PROJECT_DIR$/_posts/2015-01-16-reading-books.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -29,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2015-01-10-one-app.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2015-01-10-one-app.md">
+      <file leaf-file-name="2015-01-16-reading-books.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-01-16-reading-books.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3813084" vertical-offset="0" max-vertical-offset="535">
-              <caret line="12" column="74" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
+            <state vertical-scroll-proportion="0.2859813" vertical-offset="0" max-vertical-offset="535">
+              <caret line="9" column="87" selection-start-line="9" selection-start-column="87" selection-end-line="9" selection-end-column="87" />
               <folding />
             </state>
           </provider>
@@ -52,8 +51,8 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_posts/2015-01-09-return-of-blogging.md" />
         <option value="$PROJECT_DIR$/_posts/2015-01-10-trip-to-chicago.md" />
-        <option value="$PROJECT_DIR$/_posts/2015-01-16-reading-books.md" />
         <option value="$PROJECT_DIR$/_posts/2015-01-10-one-app.md" />
+        <option value="$PROJECT_DIR$/_posts/2015-01-16-reading-books.md" />
       </list>
     </option>
   </component>
@@ -445,7 +444,7 @@
       <option name="number" value="Default" />
       <updated>1420872025729</updated>
       <workItem from="1420872022889" duration="121000" />
-      <workItem from="1420872765249" duration="8326000" />
+      <workItem from="1420872765249" duration="8432000" />
     </task>
     <task id="LOCAL-00001" summary="Adding content to chicago trip">
       <created>1421447598956</created>
@@ -477,15 +476,21 @@
       <option name="project" value="LOCAL" />
       <updated>1421453071109</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Post edits">
+      <created>1421453397374</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1421453397374</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8447000" />
+    <option name="totallyTimeSpent" value="8553000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -500,7 +505,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -536,7 +541,8 @@
     <MESSAGE value="New post." />
     <MESSAGE value="New post on 1 app" />
     <MESSAGE value="Post edit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Post edit" />
+    <MESSAGE value="Post edits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Post edits" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -607,18 +613,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-01-16-reading-books.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4448598" vertical-offset="0" max-vertical-offset="535">
-          <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-01-10-one-app.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3813084" vertical-offset="0" max-vertical-offset="535">
           <caret line="12" column="74" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-01-16-reading-books.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2859813" vertical-offset="0" max-vertical-offset="535">
+          <caret line="9" column="87" selection-start-line="9" selection-start-column="87" selection-end-line="9" selection-end-column="87" />
           <folding />
         </state>
       </provider>
