@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Sample application based of ThymeLeaf
+title:      Sample ThymeLeaf Application
 date:       2015-02-07 12:00:00
-summary:    Created a sample application showcasing ThymeLeaf + Spring + AJAX
+summary:    A sample application showcasing ThymeLeaf + Spring + AJAX
 categories: development
 ---
 

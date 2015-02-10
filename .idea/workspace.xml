@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be71ab96-c635-456a-b417-57116195c6cc" name="Default" comment="Adds content to docker post">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/thymeleaf-app.png" />
+    <list default="true" id="be71ab96-c635-456a-b417-57116195c6cc" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-02-07-thymeleaf-sample.md" afterPath="$PROJECT_DIR$/_posts/2015-02-07-thymeleaf-sample.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -92,8 +91,8 @@
       <file leaf-file-name="2015-02-07-thymeleaf-sample.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2015-02-07-thymeleaf-sample.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5964912" vertical-offset="0" max-vertical-offset="399">
-              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.17042607" vertical-offset="0" max-vertical-offset="399">
+              <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
               <folding />
             </state>
           </provider>
@@ -538,7 +537,7 @@
       <workItem from="1420872765249" duration="9262000" />
       <workItem from="1421529321551" duration="177000" />
       <workItem from="1422308920140" duration="163000" />
-      <workItem from="1423445593510" duration="3588000" />
+      <workItem from="1423445593510" duration="3655000" />
     </task>
     <task id="LOCAL-00001" summary="Adding content to chicago trip">
       <created>1421447598956</created>
@@ -642,11 +641,17 @@
       <option name="project" value="LOCAL" />
       <updated>1423538473875</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Adds content to thymeleaf post">
+      <created>1423539267017</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1423539267017</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13311000" />
+    <option name="totallyTimeSpent" value="13378000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="728" extended-state="6" />
@@ -736,7 +741,8 @@
     <MESSAGE value="Adds content to docker post" />
     <MESSAGE value="Adds google analytics support." />
     <MESSAGE value="Removed default cname" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed default cname" />
+    <MESSAGE value="Adds content to thymeleaf post" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adds content to thymeleaf post" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -874,8 +880,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-02-07-thymeleaf-sample.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5964912" vertical-offset="0" max-vertical-offset="399">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.17042607" vertical-offset="0" max-vertical-offset="399">
+          <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
           <folding />
         </state>
       </provider>
