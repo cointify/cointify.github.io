@@ -6,7 +6,7 @@ summary:    Used docker to create an image of CentOS 7 + JBOSS EAP 6.3 + Postgre
 categories: development
 ---
 
-Few days ago I stumbled upon Docker on Hacker News and wanted to give it a try. So, over the weekend I read few tutorials and docker's documentation
+Few days ago I stumbled upon [Docker](https://www.docker.com/) on Hacker News and wanted to give it a try. So, over the weekend I read few tutorials and docker's documentation
 and built sample images. Though learning curve is a bit steep but I managed to overcome it. I was really interested in creating an image(s) that I would
 be able to use for my development environmnet. I came up with the following image design - CentOS 7 + JBOSS EAP 6.3 + Oracle Java 8 + PostgreSQL 9.3.
 
@@ -23,7 +23,7 @@ are some of the steps I took to set-up everything:
 ### Start JBOSS Servers
 Replace `$1` with server name like `jboss1:jboss1` or `jboss2:jboss2`
 
-{% highlight %}
+{% highlight ruby %}
 docker run -it --name $1 cointify/jboss630:latest
 {% endhighlight %}
 
