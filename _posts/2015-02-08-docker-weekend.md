@@ -19,34 +19,3 @@ are some of the steps I took to set-up everything:
 * Enter both IP Addresses in the `upstream` block of `nginx.conf` file as shown below;
 * Start NGINX and link both JBOSS Servers using their names;
 * Done! Visit browser to test.
-
-### Start JBOSS Servers
-Replace $1 with server name like `jboss1:jboss1` or `jboss2:jboss2`
-
-{% highlight shell %}
-docker run -it --name $1 cointify/jboss630:latest
-{% endhighlight %}
-
-### Check IP Address of your JBOSS Server
-
-{% highlight shell %}
-docker inspect CONTAINER_ID
-{% endhighlight %}
-
-### nginx.conf
-
-{% highlight shell %}
-upstream myapp1 {
-    server IP_OF_JBOSS_SERVER_1:8080;
-    server IP_OF_JBOSS_SERVER_2:8080;
-}
-
-server {
-    listen 80;
-
-    location / {
-        proxy_pass http://myapp1;
-    }
-}
-{% endhighlight %}
-
