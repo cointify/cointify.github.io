@@ -91,8 +91,8 @@
       <file leaf-file-name="2015-02-07-thymeleaf-sample.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2015-02-07-thymeleaf-sample.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.17042607" vertical-offset="0" max-vertical-offset="399">
-              <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
+            <state vertical-scroll-proportion="0.34085214" vertical-offset="0" max-vertical-offset="399">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -537,7 +537,7 @@
       <workItem from="1420872765249" duration="9262000" />
       <workItem from="1421529321551" duration="177000" />
       <workItem from="1422308920140" duration="163000" />
-      <workItem from="1423445593510" duration="3655000" />
+      <workItem from="1423445593510" duration="3698000" />
     </task>
     <task id="LOCAL-00001" summary="Adding content to chicago trip">
       <created>1421447598956</created>
@@ -647,11 +647,17 @@
       <option name="project" value="LOCAL" />
       <updated>1423539267017</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Adds content to thymeleaf post">
+      <created>1423539330311</created>
+      <option name="number" value="00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1423539330311</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13378000" />
+    <option name="totallyTimeSpent" value="13421000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="728" extended-state="6" />
@@ -880,8 +886,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-02-07-thymeleaf-sample.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17042607" vertical-offset="0" max-vertical-offset="399">
-          <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
+        <state vertical-scroll-proportion="0.34085214" vertical-offset="0" max-vertical-offset="399">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           <folding />
         </state>
       </provider>
