@@ -10,6 +10,8 @@ Few days ago I stumbled upon [Docker](https://www.docker.com/) on Hacker News an
 and built sample images. Though learning curve is a bit steep but I managed to overcome it. I was really interested in creating an image(s) that I would
 be able to use for my development environmnet. I came up with the following image design - CentOS 7 + JBOSS EAP 6.3 + Oracle Java 8 + PostgreSQL 9.3.
 
+Source code avilable on [cointify/docker](https://github.com/cointify/docker) repository on [Github.com](https://github.com)
+
 I've never worked with NGINX before so it was a bit challenging for me at first but then it all made sense after I read the official documentation. And below
 are some of the steps I took to set-up everything:
 
@@ -21,11 +23,33 @@ are some of the steps I took to set-up everything:
 * Done! Visit browser to test.
 
 ### Start JBOSS Servers
-Replace `$1` with server name like `jboss1:jboss1` or `jboss2:jboss2`
+Replace $1 with server name like `jboss1:jboss1` or `jboss2:jboss2`
 
 {% highlight ruby %}
 docker run -it --name $1 cointify/jboss630:latest
 {% endhighlight %}
 
+### Check IP Address of your JBOSS Server
+
+{% highlight ruby %}
+docker inspect CONTAINER_ID
+{% endhighlight %}
+
+### nginx.conf
+
+{% highlight ruby %}
+upstream myapp1 {
+    server IP_OF_JBOSS_SERVER_1:8080;
+    server IP_OF_JBOSS_SERVER_2:8080;
+}
+
+server {
+    listen 80;
+
+    location / {
+        proxy_pass http://myapp1;
+    }
+}
+{% endhighlight %}
 
 
