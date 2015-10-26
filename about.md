@@ -12,5 +12,5 @@ My name is Jatinder Singh and I'm a Software Developer based in Toronto, Canada.
 
 <div class="py2 post-footer">
   <img src="/images/me.jpg" alt="Jatinder Singh" class="avatar" />
-  <p>Software Developer • Hobbyist Photographer • Soccer Enthusiastic</p>
+  <p>Software Developer • Hobbyist Photographer • Tennis Enthusiastic</p>
 </div>
