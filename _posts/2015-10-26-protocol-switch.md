@@ -2,7 +2,7 @@
 layout:     post
 title:      Protocol switch behind proxy
 date:       2015-10-26 12:00:00
-summary:    Unable to download atom.io package behind corporate proxy
+summary:    Unable to download Atom.io package behind corporate proxy
 categories: solution
 ---
 
